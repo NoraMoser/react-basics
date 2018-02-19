@@ -7,6 +7,6 @@ const person = (props) => (
     <input tyoe='text' onChange={props.input} ></input>
     </div>
 );
-// value={props.name} - for two way binding in the input
+// value={props.name} - for two way binding in the input ok
 
 export default person;
